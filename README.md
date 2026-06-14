@@ -1,2 +1,2 @@
 # c-practice
-only c-practice and test.
+My initial codes when I started learning C.
