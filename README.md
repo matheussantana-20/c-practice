@@ -1,2 +1,2 @@
-# meu-primeiro-repo
-repo apenas para testes 
+# c-practice
+only c-practice and test.
